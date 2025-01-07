@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, unmanned systems, startups, hard tech, mechanical design, and sensing. 
 - 🌱 I’m currently learning / experimenting with LLMs, openFOAM, and home automation.
 - 💞️ I’m looking to collaborate on deep tech product development.
-- 📫 How to reach me on linkdin and thru email info [at] unlimintsys  com
+- 📫 How to reach me on linkedin and thru email info [at] unlimintsys  com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
