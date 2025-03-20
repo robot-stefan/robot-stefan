@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning / experimenting with LLMs, openFOAM, and home automation.
 - 💞️ I’m looking to collaborate on deep tech product development.
 - 📫 How to reach me on linkedin and thru email info [at] unlimintsys  com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I do most of my own car maintenance. 
 
 <!---
 robot-stefan/robot-stefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
